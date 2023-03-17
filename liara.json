@@ -1,0 +1,10 @@
+{
+  "app": "soundload",
+  "port": 80,
+  "disks": [
+    {
+      "name": "main",
+      "mountTo": "/usr/src/app/static"
+    }
+  ]
+}

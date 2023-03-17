@@ -1,0 +1,7 @@
+mutagen
+bs4
+aiohttp
+
+flask
+requests
+soundcloud-lib
